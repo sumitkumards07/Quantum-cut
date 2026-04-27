@@ -16,7 +16,7 @@ const Contact: React.FC = () => {
             <div className="space-y-6">
               <div className="flex items-center space-x-4 text-gray-300">
                 <Mail className="text-brand-500" />
-                <span>quantumcut2025@gmail.com</span>
+                <span>sumitkumards07@gmail.com</span>
               </div>
               <div className="flex items-center space-x-4 text-gray-300">
                 <MapPin className="text-brand-500" />
@@ -24,7 +24,7 @@ const Contact: React.FC = () => {
               </div>
               <div className="flex items-center space-x-4 text-gray-300">
                 <Phone className="text-brand-500" />
-                <span>+91 (555) 912-3841</span>
+                <span>+91 8950013181</span>
               </div>
               <div className="flex items-center space-x-4 text-gray-300">
                 <Calendar className="text-brand-500" />
